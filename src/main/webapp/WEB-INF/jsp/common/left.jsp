@@ -37,20 +37,18 @@
 			<div class="title">
 				<span><img src="images/leftico01.png" /></span>权限设置
 			</div>
-		</dd>
 			<ul class="menuson">
 				<li><cite></cite><a href="departmentManage.do" target="rightFrame">部门管理</a></li>
-			</ul>
-			<ul class="menuson">
 				<li><cite></cite><a href="userManage.do" target="rightFrame">用户管理</a></li>
 			</ul>
+		</dd>
 		<dd>
 			<div class="title">
 				<span><img src="images/leftico01.png" /></span>管理信息
 			</div>
 			<ul class="menuson">
 				<li class="active"><cite></cite><a href="redirect.do?page=main" target="rightFrame">首页</a><i></i></li>
-				<li><cite></cite><a href="right.html" target="rightFrame">数据列表</a><i></i></li>
+				<li><cite></cite><a href="highcharts.do" target="rightFrame">图表展示</a><i></i></li>
 				<li><cite></cite><a href="imgtable.html" target="rightFrame">图片数据表</a><i></i></li>
 				<li><cite></cite><a href="form.html" target="rightFrame">添加编辑</a><i></i></li>
 				<li><cite></cite><a href="imglist.html" target="rightFrame">图片列表</a><i></i></li>
